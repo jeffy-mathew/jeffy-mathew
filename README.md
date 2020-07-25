@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there 👋  I'm Jeffy Mathew
 
-<!--
-**jeffy-mathew/jeffy-mathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineer | Humble Human
 
-Here are some ideas to get you started:
+I'm a software engineer who loves working around products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### _Developer with ops in mind!_
+
+Building [Surveyjoy](https://surveyjoy.co), pluggable widgets that can
+be integrated into websites to carry out surveys.
+
+Mostly working with **Go** and **K8s** ecosystem. 
+
+Over the 3 years of my professional experience, I've also worked with **GCP**,
+**MongoDB**, **Node.js**, **MySQL** and **CI/CD** pipelines.
+
+&nbsp;
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/jeffy-mathew/) &nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='30'>](https://stackoverflow.com/users/6084322/jeffy-mathew) &nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/simply_imperfect_me/) &nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/jeffyishere)&nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='twitter' height='30'>](https://medium.com/@jeffy_mathew) &nbsp;
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://jeffym.xyz/)
