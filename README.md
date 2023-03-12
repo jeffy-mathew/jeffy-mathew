@@ -6,14 +6,6 @@ I'm a software engineer who loves working around products.
 
 #### _Developer with ops in mind!_
 
-Building [Surveyjoy](https://surveyjoy.co), pluggable widgets that can
-be integrated into websites to carry out surveys.
-
-Mostly working with **Go** and **K8s** ecosystem. 
-
-Over the 3 years of my professional experience, I've also worked with **GCP**,
-**MongoDB**, **Node.js**, **MySQL** and **CI/CD** pipelines.
-
 &nbsp;
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/jeffy-mathew/) &nbsp;
