@@ -1,8 +1,6 @@
 # Hi there 👋  I'm Jeffy Mathew
 
-### Software Engineer | Humble Human
-
-I'm a software engineer who loves working around products.
+### Humble Human
 
 #### _Developer with ops in mind!_
 
